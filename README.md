@@ -7,6 +7,7 @@
 
 - ⚡ Fun fact **I love to play football and Guitar**
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshutoshDevpura&layout=compact)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
