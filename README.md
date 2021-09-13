@@ -1,4 +1,4 @@
-<h1 align="center"> <\ Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, I'm Ashutosh Devpura /></h1>
+<h1 align="center"> < Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, I'm Ashutosh Devpura /></h1>
 <h3 align="center">Data! Data! Data! I can't make bricks without clay</h3>
 
 - 🌱 I’m currently learning **Everything**
