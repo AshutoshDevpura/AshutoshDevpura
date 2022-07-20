@@ -17,7 +17,9 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
 
 <a href="https://linkedin.com/in/ashutoshdevpura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh devpura" height="30" width="40" /></a>
-</p>
+<a href="https://instagram.com/https://www.instagram.com/ashutoshdevpura/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ashutoshdevpura/" height="30" width="40" /></a>
+
+
 
 <h3>Language Stats:</h3>
 
