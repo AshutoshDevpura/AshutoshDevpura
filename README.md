@@ -1,4 +1,4 @@
-<h1 align="center"> < Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, I'm Ashutosh Devpura /></h1>
+<h1 align="center"> < Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">,Welcome to Ashutosh Devpura's Github /></h1>
 <h3 align="center">Data! Data! Data! I can't make bricks without clay</h3>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
 
@@ -10,7 +10,7 @@
 
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
- - 🎓 &nbsp; Studying Information Technology, Statistics and Information Systems.
+ - 🎓 &nbsp; Studying Information Technology, Statistics and Data Analytics Engineering.
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
