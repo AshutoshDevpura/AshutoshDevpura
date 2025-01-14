@@ -1,48 +1,97 @@
-<h1 align="center"> < Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">,Welcome to Ashutosh Devpura's Github /></h1>
-<h3 align="center">Data! Data! Data! I can't make bricks without clay</h3>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
+# 🚀 Data Scientist Portfolio
 
-- 🌱 I’m currently learning **Everything**
+Welcome to my professional portfolio! Below, you'll find an overview of my experience, education, certifications, and key projects showcasing my expertise in **Data Science**, **Machine Learning**, and **AI**.
 
-- 📫 How to reach me **ashutoshdevpura@gmail.com**
+---
 
-- ⚡ Fun fact **I love to play football and Guitar**
+## 🧑‍💻 Experience
 
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+### **Teaching Assistant**  
+**Northeastern University College of Engineering**  
+**Sep 2024 - Dec 2024 · 4 months**  
+*Boston, Massachusetts, United States*  
+- Focused on **Analytics** and **Generative AI**.
 
- - 🎓 &nbsp; Studying Information Technology, Statistics and Data Analytics Engineering.
-<br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
+---
 
-<a href="https://linkedin.com/in/ashutoshdevpura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh devpura" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/ashutoshdevpura/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ashutoshdevpura/" height="30" width="40" /></a>
+### **Data Scientist**  
+**Massachusetts General Hospital**  
+**Jan 2024 - Jun 2024 · 6 months**  
+*Boston, Massachusetts, United States*  
+- Designed and deployed scalable **NLP** solutions using **LLMs** and **Neo4j**.
+- Integrated **LangChain** and **Streamlit**, serving over 1,000 users.
 
+---
 
+### **Dev Ops Data Scientist**  
+**Ansh Soft Tech**  
+**Apr 2021 - Aug 2022 · 1 year 5 months**  
+*Pune, Maharashtra, India*  
+- Improved KPIs by 13% with optimized **XGBoost** models.
+- Conducted fraud detection research for FinTech clients.
 
-<h3>Language Stats:</h3>
+---
 
+### **AI Engineer Intern**  
+**Technovalley Software India Private Limited**  
+**Oct 2020 - Apr 2021 · 7 months**  
+*India*  
+- Focused on **SQL**, **Data Modeling**, and **AI pipeline optimization**.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshutoshDevpura&layout=compact)<h3 align="left">Languages:</h3>
- <p align="left">
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
- <a href="https://www.r-project.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/> </a> 
- <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  
- 
+---
 
+### **Machine Learning Research Assistant**  
+**SRM IST Chennai**  
+**Jan 2020 - Oct 2020 · 10 months**  
+*India*  
+- Developed ML models using **OpenCV** and **scikit-image**.
 
+---
 
-<h3 align="left">Tools:</h3>
-<p align="left">
- 
-<a href="https://www.r-project.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/> </a>
- <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
- <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a><a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
- <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>  <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
- 
- 
-   
+## 🎓 Education
 
- 
+### **Master of Science (MS), Data Analytics Engineering**  
+**Northeastern University**  
+**Sep 2022 - Dec 2024**  
+- Activities: Intramural Sports Supervisor at University Recreation.
+
+---
+
+### **Bachelor of Technology (BTech), Information Technology (Data Science and Machine Learning)**  
+**SRM IST Chennai**  
+**May 2017 - Jun 2021**  
+- Grade: Distinction.
+
+---
+
+## 🎖 Licenses & Certifications
+
+- **AWS Certified Machine Learning Engineer – Associate**  
+  *Issued Dec 2024 · Expires Dec 2027*
+
+- **Tableau Desktop Specialist**  
+  *Issued Jul 2023*  
+  *Credential ID: T000109984*
+
+---
+
+## 💡 Skills
+
+- **Programming**: Python, SQL, PySpark, R.  
+- **Data Visualization**: Tableau, Matplotlib, Seaborn.  
+- **Machine Learning**: Scikit-learn, TensorFlow, XGBoost.  
+- **Cloud Platforms**: AWS, GCP, Azure.  
+- **Tools & Frameworks**: LangChain, Neo4j, Airflow.  
+- **Other**: Data Modeling, ETL pipelines, NLP.
+
+---
+
+## 📬 Contact
+
+- **GitHub**: [github.com/your-username](https://github.com/your-username)  
+- **LinkedIn**: [linkedin.com/in/your-linkedin](https://linkedin.com/in/your-linkedin)  
+- **Email**: your.email@example.com  
+
+---
+
+Thank you for visiting my portfolio! I'm always looking for new challenges and opportunities to make an impact through data-driven solutions.
