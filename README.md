@@ -1,6 +1,6 @@
 # 🚀 Data Scientist Portfolio
 
-Welcome to my professional portfolio! Below, you'll find an overview of my experience, education, certifications, and key projects showcasing my expertise in **Data Science**, **Machine Learning**, and **AI**.
+Hello !! my name is Ashutosh Devpura, Welcome to my professional portfolio! Below, you'll find an overview of my experience, education, certifications, and key projects showcasing my expertise in **Data Science**, **Machine Learning**, and **AI**.
 
 ---
 
