@@ -39,7 +39,7 @@ Hello !! my name is Ashutosh Devpura, Welcome to my professional portfolio! Belo
 
 ### **Machine Learning Research Assistant**  
 **SRM IST Chennai**  
-*Jan 2020 - Oct 2020 · 10 months*  
+*Jan 2020 - Apr 2021 · 1 year 4 months*  
 *India*  
 - Developed ML models using **OpenCV** and **scikit-image**.  
 ---
