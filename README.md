@@ -1,4 +1,4 @@
-# 🚀 Data Scientist Portfolio
+# 🚀 Data Scientist - My Portfolio
 
 Hello !! my name is Ashutosh Devpura, Welcome to my professional portfolio! Below, you'll find an overview of my experience, education, certifications, and key projects showcasing my expertise in **Data Science**, **Machine Learning**, and **AI**.
 
@@ -26,7 +26,6 @@ Hello !! my name is Ashutosh Devpura, Welcome to my professional portfolio! Belo
 *India*  
 - Focused on **SQL**, **Data Modeling**, and **AI pipeline optimization**.  
 
-
 ---
 
 ## 🎓 Assistantship Experience
@@ -42,6 +41,17 @@ Hello !! my name is Ashutosh Devpura, Welcome to my professional portfolio! Belo
 *Jan 2020 - Apr 2021 · 1 year 4 months*  
 *India*  
 - Developed ML models using **OpenCV** and **scikit-image**.  
+
+---
+
+## 🤝 Volunteer Experience
+
+### **Data Scientist**  
+**Community Dreams Foundation**  
+*Feb 2025 - Present*  
+- Leveraging **machine learning** to drive social impact and improve community-based data initiatives.  
+- Assisting in **data collection**, **cleaning**, and **model development** for nonprofit initiatives.  
+
 ---
 
 ## 🎓 Education
@@ -56,7 +66,7 @@ Hello !! my name is Ashutosh Devpura, Welcome to my professional portfolio! Belo
 
 ---
 
-## 🎖 Licenses & Certifications
+## 🏆 Licenses & Certifications
 
 - **AWS Certified Machine Learning Engineer – Associate**  
   *Issued Dec 2024 · Expires Dec 2027*  
@@ -76,12 +86,13 @@ Hello !! my name is Ashutosh Devpura, Welcome to my professional portfolio! Belo
 
 ---
 
-## 📬 Contact
+## 💌 Contact
 
 - **GitHub**: [github.com/AshutoshDevpura](https://github.com/AshutoshDevpura)  
 - **LinkedIn**: [linkedin.com/in/AshutoshDevpura](https://linkedin.com/in/AshutoshDevpura)  
-- **Email**: [ashutosh@example.com](mailto:ashutosh@example.com)  
+- **Email**: [ashutoshdevpura@outlook.com](mailto:ashutoshdevpura@outlook.com)  
 
 ---
 
 Thank you for visiting my portfolio! I'm always looking for new challenges and opportunities to make an impact through data-driven solutions.
+
