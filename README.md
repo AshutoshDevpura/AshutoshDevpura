@@ -73,18 +73,6 @@ Hello !! my name is Ashutosh Devpura, Welcome to my professional portfolio! Belo
 - **Tableau Desktop Specialist**  
   *Issued Jul 2023 · Credential ID: T000109984*  
 
----
-
-## 💡 Skills
-
-- **Programming**: Python, SQL, PySpark, R.  
-- **Data Visualization**: Tableau, Matplotlib, Seaborn.  
-- **Machine Learning**: Scikit-learn, TensorFlow, XGBoost.  
-- **Cloud Platforms**: AWS, GCP, Azure.  
-- **Tools & Frameworks**: LangChain, Neo4j, Airflow.  
-- **Other**: Data Modeling, ETL pipelines, NLP.  
-
----
 
 ## 💌 Contact
 
