@@ -1,5 +1,3 @@
-Below is a more polished, visually appealing version of your portfolio in Markdown. You can further adjust styling as needed:
-
 ---
 
 # 🚀 Data Scientist - My Portfolio
@@ -33,7 +31,7 @@ Welcome to my professional portfolio. Here, I showcase my expertise in **Data Sc
 
 ## 🎓 Assistantship Experience
 
-### **Data Science Teaching Assistant**  
+### **Teaching Assistant**  
 **Northeastern University College of Engineering** · *Boston, MA, USA*  
 *Sep 2024 – Dec 2024 (4 months)*
 
