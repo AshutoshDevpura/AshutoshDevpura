@@ -1,6 +1,6 @@
 # Hi, I'm Ashutosh Devpura 👋
 
-**Data Scientist · ML Engineer · Credit Risk AI**
+**Data Scientist · ML & AI Engineer · Credit Risk**
 
 ---
 
