@@ -9,7 +9,6 @@
 | Period | Role | Company |
 |--------|------|---------|
 | May 2025 – Present | Data Scientist | RDC.ai (Rich Data Corporation) · Tampa, FL |
-| Feb 2025 – Present | Data Scientist | Community Dreams Foundation · Volunteer |
 | Sep 2024 – Dec 2024 | Teaching Assistant | Northeastern University · Boston, MA |
 | Jan 2024 – Jun 2024 | Data Scientist | Massachusetts General Hospital · Boston, MA |
 | Apr 2021 – Aug 2022 | Data Scientist | Ansh Soft Tech · Pune, India |
@@ -29,6 +28,18 @@
 
 ### SRM IST Chennai
 - Computer vision models with OpenCV & scikit-image
+
+---
+
+## 🤝 Volunteer
+
+| Period | Role | Organization |
+|--------|------|--------------|
+| Feb 2025 – May 2025 | Data Scientist | Community Dreams Foundation |
+
+### Community Dreams Foundation
+- ML-driven community data initiatives, end-to-end
+- Data collection, cleaning, and model development for nonprofit projects
 
 ---
 
