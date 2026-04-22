@@ -32,7 +32,19 @@ and Model Risk Management validation for US banks.
 ### Open source
 
 <!-- OSS:START -->
-_Refreshed daily from the GitHub API._
+![Merged PRs](https://img.shields.io/badge/Merged_PRs-4-2ea44f?style=flat-square) ![Repos](https://img.shields.io/badge/Repos-2-blue?style=flat-square)
+
+**[`scikit-learn/scikit-learn`](https://github.com/scikit-learn/scikit-learn)**
+
+- [#33763](https://github.com/scikit-learn/scikit-learn/pull/33763) — Change default quantile_method to averaged_inverted_cdf in KBinsDiscretizer
+- [#33762](https://github.com/scikit-learn/scikit-learn/pull/33762) — Raise ValueError instead of FutureWarning for integer dtype in partial_dependence
+- [#33761](https://github.com/scikit-learn/scikit-learn/pull/33761) — Remove deprecated sparse parameter from fowlkes_mallows_score
+
+**[`optuna/optuna`](https://github.com/optuna/optuna)**
+
+- [#6628](https://github.com/optuna/optuna/pull/6628) — fix: handle JSONDecodeError in TPESampler._get_params to avoid race condition
+
+<sub>Auto-generated from the GitHub API · [see all merged PRs →](https://github.com/pulls?q=is%3Apr+author%3AAshutoshDevpura+is%3Amerged)</sub>
 <!-- OSS:END -->
 
 ### Education & credentials
