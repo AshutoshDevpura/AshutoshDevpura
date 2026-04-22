@@ -1,70 +1,49 @@
-# Hi, I'm Ashutosh Devpura 👋
+<h1 align="center">Ashutosh Devpura</h1>
 
-**Data Scientist · ML & AI Engineer · Credit Risk**
+<p align="center">
+  <b>Data Scientist | ML Engineer</b> <br/>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/AshutoshDevpura"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn"></a>
+  <a href="mailto:ashutoshdevpura@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Email"></a>
+  <a href="https://kaggle.com/ashutoshdevpura"><img src="https://img.shields.io/badge/Kaggle_3%C3%97_Expert-20BEFF?logo=kaggle&logoColor=white&style=flat-square" alt="Kaggle"></a>
+  <img src="https://img.shields.io/badge/AWS_ML_Certified-FF9900?logo=amazonaws&logoColor=white&style=flat-square" alt="AWS">
+</p>
 
 ---
 
-## 🧑‍💻 Experience
+### About
+
+Four years shipping ML in regulated environments — commercial banks and academic medicine.
+My day-to-day is credit risk modeling, Early Warning Indicator systems, cash flow forecasting,
+and Model Risk Management validation for US banks.
+
+### Experience
 
 | Period | Role | Company |
-|--------|------|---------|
-| May 2025 – Present | Data Scientist | RDC.ai (Rich Data Corporation) · Tampa, FL |
-| Sep 2024 – Dec 2024 | Teaching Assistant | Northeastern University · Boston, MA |
-| Jan 2024 – Jun 2024 | Data Scientist | Massachusetts General Hospital · Boston, MA |
+|---|---|---|
+| **May 2025 – Present** | Data Scientist | **RDC.AI** |
+| Sep 2024 – Dec 2024 | Teaching Assistant | Northeastern University College of Engineering |
+| Jan 2024 – Jun 2024 | Data Scientist | Massachusetts General Hospital |
 | Apr 2021 – Aug 2022 | Data Scientist | Ansh Soft Tech · Pune, India |
-| Jan 2020 – Apr 2021 | ML Research Assistant | SRM IST Chennai · India |
+| Jan 2020 – Apr 2021 | Machine Learning Researcher | SRM IST Chennai |
 
-### RDC.ai (Rich Data Corporation)
-- ML models for bank credit risk & AI-driven lending solutions
-- XGBoost & LSTM for EWI systems, cash flow forecasting, loan default prediction
+### Open source
 
-### Massachusetts General Hospital
-- NLP/LLM solutions serving 1,000+ users via LangChain & Streamlit
-- Neo4j graph database integration for complex clinical relationships
+<!-- OSS:START -->
+_Refreshed daily from the GitHub API._
+<!-- OSS:END -->
 
-### Ansh Soft Tech
-- XGBoost model optimization — 13% KPI improvement
-- Fraud detection research for FinTech clients
-
-### SRM IST Chennai
-- Computer vision models with OpenCV & scikit-image
-
----
-
-## 🤝 Volunteer
-
-| Period | Role | Organization |
-|--------|------|--------------|
-| Feb 2025 – May 2025 | Data Scientist | Community Dreams Foundation |
-
-### Community Dreams Foundation
-- ML-driven community data initiatives, end-to-end
-- Data collection, cleaning, and model development for nonprofit projects
-
----
-
-## 🎓 Education
+### Education & credentials
 
 - **MS, Data Analytics Engineering** — Northeastern University (2022–2024)
 - **BTech, IT (Data Science & ML)** — SRM IST Chennai (2017–2021)
+- AWS Certified Machine Learning Engineer – Associate · Tableau Desktop Specialist · 3× Kaggle Expert
 
----
+### Volunteering
 
-## 🏆 Certifications
-
-- AWS Certified Machine Learning Engineer – Associate *(Dec 2024 · Expires Dec 2027)*
-- Tableau Desktop Specialist *(Jul 2023 · ID: T000109984)*
-
----
-
-## 🛠️ Skills
-
-`XGBoost` `LSTM` `PyTorch` `NLP` `LangChain` `Neo4j` `scikit-learn` `OpenCV` `Streamlit` `AWS ML` `Tableau` `SQL` `Credit Risk` `EWI Systems`
-
----
-
-## 📬 Connect
-
-- GitHub: [github.com/AshutoshDevpura](https://github.com/AshutoshDevpura)
-- LinkedIn: [linkedin.com/in/AshutoshDevpura](https://linkedin.com/in/AshutoshDevpura)
-- Email: [ashutoshdevpura@outlook.com](mailto:ashutoshdevpura@outlook.com)
+| Period | Role | Organization |
+|---|---|---|
+| Feb 2025 – May 2025 | Data Scientist | Community Dreams Foundation |
+| Nov 2019 – Feb 2020 | Analyst | AIESEC in Indonesia |
