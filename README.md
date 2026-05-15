@@ -32,7 +32,7 @@ and Model Risk Management validation for US banks.
 ### Open source
 
 <!-- OSS:START -->
-![Merged PRs](https://img.shields.io/badge/Merged_PRs-4-2ea44f?style=flat-square) ![Repos](https://img.shields.io/badge/Repos-2-blue?style=flat-square)
+![Merged PRs](https://img.shields.io/badge/Merged_PRs-5-2ea44f?style=flat-square) ![Repos](https://img.shields.io/badge/Repos-2-blue?style=flat-square)
 
 **[`scikit-learn/scikit-learn`](https://github.com/scikit-learn/scikit-learn)**
 
@@ -42,6 +42,7 @@ and Model Risk Management validation for US banks.
 
 **[`optuna/optuna`](https://github.com/optuna/optuna)**
 
+- [#6661](https://github.com/optuna/optuna/pull/6661) — fix: collect all infeasible values in error message instead of early return
 - [#6628](https://github.com/optuna/optuna/pull/6628) — fix: handle JSONDecodeError in TPESampler._get_params to avoid race condition
 
 <sub>Auto-generated from the GitHub API · [see all merged PRs →](https://github.com/pulls?q=is%3Apr+author%3AAshutoshDevpura+is%3Amerged)</sub>
